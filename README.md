@@ -1,8 +1,8 @@
 # aisd
 ## aisd repo since 2023:
 
-#### chess:
+## chess:
 ##### colorful board + oop (practicum 5)
 
-#### ???:
+## ???:
 ##### NaN
